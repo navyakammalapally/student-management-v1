@@ -20,19 +20,24 @@ A simple Student Management System developed using HTML and CSS. The project pro
 
 ## Project Structure
 
+## Project Structure
+
+```text
 student-management-v1/
 │
 └── student_management/
-    ├── index.html
-    ├── login.html
-    ├── register.html
-    ├── dashboard.html
-    ├── addstudents.html
-    ├── editstudents.html
-    ├── viewstudents.html
-    ├── logout.html
-    ├── styles.css
-    └── README.md
+    │
+    ├── index.html          # Home Page
+    ├── login.html          # Login Page
+    ├── register.html       # Registration Page
+    ├── dashboard.html      # Dashboard Page
+    ├── addstudents.html    # Add Student Page
+    ├── viewstudents.html   # View Students Page
+    ├── editstudents.html   # Edit Student Page
+    ├── logout.html         # Logout Page
+    ├── styles.css          # CSS Stylesheet
+    └── README.md           # Project Documentation
+```
 
 ## Live Demo
 
